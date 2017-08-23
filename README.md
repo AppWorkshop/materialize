@@ -6,7 +6,7 @@
   <h3 align="center">MaterializeCSS</h3>
 
   <p align="center">
-    Materialize, a CSS Framework based on material design.
+    A temporary working version of materialize v0.100.1 for meteor. Prefer <a href="https://github.com/Dogfalo/materialize">the official version</a> if it works for you.
     <br>
     <a href="http://materializecss.com/"><strong>-- Browse the docs --</strong></a>
     <br>
